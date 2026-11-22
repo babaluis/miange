@@ -1,0 +1,3 @@
+import osync
+
+test
